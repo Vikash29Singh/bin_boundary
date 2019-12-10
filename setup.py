@@ -14,8 +14,8 @@ setup(
   description = 'This package perform one of the smoothing method of Binning method(Bin by Boundaries).It ask for file name and column name ',   # Give a short description about your library
   author = 'VIKASH SINGH',                   # Type in your name
   author_email = 'vikashlikes18@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/Vikash29Singh/bin_boundary',   # Provide either the link to your github or to your website
-  #download_url = 'https://github.com/koustabh69/binbymean/archive/v0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/Vikash29Singh/bin_boundary.git',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Vikash29Singh/bin_boundary/archive/v0.1.tar.gz',    # I explain this later on
   keywords = ['bin', 'boundary', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
